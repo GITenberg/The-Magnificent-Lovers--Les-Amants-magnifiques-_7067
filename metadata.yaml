@@ -1,0 +1,42 @@
+_repo: The-Magnificent-Lovers--Les-Amants-magnifiques-_7067
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wall, Charles Heron
+    aliases:
+    - Wall, C. H. (Charles Heron)
+    - Heron-Wall, C. (Charles)
+    gutenberg_agent_id: '2877'
+    url: http://www.gutenberg.org/2009/agents/2877
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Molière, Jean Baptiste Poquelin de
+    - Moliere
+    - Poquelin de Molière, Jean Baptiste
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Molière, 1622-1673 -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'French drama -- 17th century -- Translations into English'
+- !lcsh 'Courtship -- Drama'
+- GITenberg
+title: The Magnificent Lovers (Les Amants magnifiques)
+url: http://www.gutenberg.org/ebooks/7067
