@@ -1,5 +1,5 @@
 _repo: The-Magnificent-Lovers--Les-Amants-magnifiques-_7067
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wall, Charles Heron
@@ -8,6 +8,9 @@ contributor:
     - Heron-Wall, C. (Charles)
     gutenberg_agent_id: '2877'
     url: http://www.gutenberg.org/2009/agents/2877
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7067#The-Magnificent-Lovers--Les-Amants-magnifiques-
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
